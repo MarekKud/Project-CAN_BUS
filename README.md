@@ -18,3 +18,4 @@ Simply CanBus Analyzer project implemented on dsPIC33EP512MU810.
 # Application demo
 An application written in QT to test the PCB connection.
 ![APP1](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/f9fae02c-7b63-4868-9a6a-7328116af3ee)
+![APP2](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/da29a664-c4d0-4d71-b54a-46db173bbbc6)
