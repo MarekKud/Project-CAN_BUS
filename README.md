@@ -15,3 +15,6 @@ Simply CanBus Analyzer project implemented on dsPIC33EP512MU810.
 ![Project_PCBanazyler](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/705c2e2a-4e85-4cf5-b44c-b1b838531481)
 # PCB Transparent
 ![Transparent](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/1a955ed4-4c54-4724-b842-c459e002ea1a)
+# APP
+An application written in QT to test the PCB connection
+![APP1](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/f9fae02c-7b63-4868-9a6a-7328116af3ee)
