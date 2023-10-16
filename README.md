@@ -3,7 +3,7 @@
 # Project Specification.
 Simply CanBus Analyzer project implemented on dsPIC33EP512MU810.
 # Languages and Tools.
-- Languages: C/C++, QT 
+- Languages: C/C++,QT 
 - IDEs : MPLAB X IDE V6.05
 - Programmer : MPLAB PIC KIT 4 (MICROCHIP)
 - Schematic capture software : Altium Designer
