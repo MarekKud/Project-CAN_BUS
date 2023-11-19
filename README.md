@@ -13,7 +13,8 @@ Simply CanBus Analyzer project implemented on dsPIC33EP512MU810.
 ![Electrica_lDiagram](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/0df6979c-bc7f-40c4-b7a9-f8406515558a)
 # PCB View
 
-![Project_PCBanazyler](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/705c2e2a-4e85-4cf5-b44c-b1b838531481)
+![PCB](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/0ccd3dfa-dde2-41c5-9a41-6b1dda45cf2b)
+
 # PCB Transparent View
 ![Transparent](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/1a955ed4-4c54-4724-b842-c459e002ea1a)
 # Application demo
