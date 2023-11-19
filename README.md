@@ -17,7 +17,8 @@ Simply CanBus Analyzer project implemented on dsPIC33EP512MU810.
 
 # PCB Transparent View
 ![Pcb transparent](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/d2b53019-40ca-4bb1-8c3b-d5f20444ea58)
-![IMG_20231119_102121](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/cb95eacb-3d0e-4b7a-b717-41743631171a)
+![IMG_20231119_102121](https://github.com/MarekKud/Project-CAN_BUS/assets/92340461/415ec4d9-39f9-40f5-974c-eb3fdcd5a6bd)
+
 
 
 # Application demo
