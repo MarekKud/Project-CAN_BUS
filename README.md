@@ -3,7 +3,7 @@
 # Project Specification.
 Simply CanBus Analyzer project implemented on dsPIC33EP512MU810.
 # Languages and Tools.
-- OS: Ubuntu 
+- OS: Ubuntu ,Windows
 - Languages: C/C++,GCC 10.3.1
 - IDEs : MPLAB X IDE V6.05, Qt 6.4.0 
 - Programmer : MPLAB PIC KIT 4 (MICROCHIP)
